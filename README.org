@@ -1,3 +1,4 @@
 # val-max-min
 * Finding the largest and smallest values in a data set
-This program read random number. Once the values are all read, the program will find the largest and smallest values in the data set.
+This program read random number.
+Once the values are all read, the program will find the largest and smallest values in the data set.
